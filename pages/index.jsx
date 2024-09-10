@@ -51,8 +51,6 @@ botun destek serverine katılın</a>
               <i className="fab fa-discord mr-2" />botcommandı davet et
             </a>
           </div>
-
-          <div className="col-span-8 grid grid-cols-1 lg:grid-cols-2 gap-6">
            
 
 
